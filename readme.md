@@ -1,6 +1,6 @@
 # FlipPrint
 ### Double-sided printing with a single-sided printer.
-Created By: Rohan Doshi
+Created By Rajat Doshi
 
 Demo: http://flipprint.pythonanywhere.com
 
@@ -35,3 +35,4 @@ First, the user selects his type of printer (to enable the app to customize the 
 #### Credit
 1. print.js (http://printjs.crabbly.com/): A tiny JavaScript library to help printing from the web
 2. pdfrw (https://github.com/pmaupin/pdfrw): pdfrw is a pure Python library that reads and writes PDFs
+3. My older brother Rohan Doshi
